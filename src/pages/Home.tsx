@@ -176,6 +176,35 @@ const Home = () => {
         </div>
       </section>
 
+<section className="about_section layout_padding iframe">
+  <div className="container">
+    <div className="heading_container heading_center">
+      <h2>Learn More About Delio Vending</h2>
+    </div>
+
+    <div className="iframe-grid-box">
+      <div className="iframe-grid">
+        <iframe
+          src="https://docs.google.com/document/d/e/2PACX-1vQnMt60Oy8xuf3N0n_sFyLhV8LA8r7Vo03rLQS3DgdJSGKtvVrvaC5ZKA5NAGsXhAimLbrxv0UrDejc/pub?embedded=true"
+          title="Company Document"
+        />
+        <iframe
+          src="https://docs.google.com/presentation/d/e/2PACX-1vSuctZJDgrErUcWFA94Wg6wc0YSbpVWl89L2sztQ2B-SciU-a1r3f16xkpvXEyB-fiSezbgsxhwNzbB/pubembed?start=false&loop=false&delayms=3000"
+          title="Company Slides"
+          allowFullScreen
+        />
+        <iframe
+          src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSF4BoVrsegqaYm97e7JivRAOVY7J_yIchW_ZtZh-N2Ktfd6ot-QC--ayFGOtgsqy6tNWcuFBf1x20h/pubhtml?widget=true&headers=false"
+          title="Company Sheet"
+        />
+        <iframe
+          src="https://www.google.com/maps/d/embed?mid=1OMZJUj2f3Q_EiO-_V5v07FrgN8-ZkeA&ehbc=2E312F"
+          title="Location Map"
+        />
+      </div>
+    </div>
+  </div>
+</section>
 
       
 
