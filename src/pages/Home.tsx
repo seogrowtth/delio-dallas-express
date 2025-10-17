@@ -22,7 +22,7 @@ const Home = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-3xl">
             <h1 className="text-5xl md:text-6xl font-bold text-primary mb-6">
-              <a href="https://deliotx.com/">VENDING SERVICES DALLAS</a>
+              <u><a href="https://deliotx.com/">VENDING SERVICES DALLAS</a><u/>
             </h1>
             <p className="text-xl md:text-2xl text-foreground mb-8 leading-relaxed">
               Premium vending solutions and coffee services throughout Dallas, TX. Delivering convenience, quality, and reliability to businesses of all sizes.
