@@ -72,3 +72,17 @@ All colors MUST be HSL.
 @media (max-width: 768px) {
   .iframe-grid { grid-template-columns: 1fr; }
 }
+
+.map-section {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 1100px;
+  padding: 20px;
+}
+
+.map-section h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #0078d7; /* adjust for your brand */
+}
+
