@@ -207,17 +207,12 @@ const Home = () => {
 </section>
 
 
-      <!-- Contact Info or CTA Above -->
+      
 <section class="map-section">
   <h2>Find Us</h2>
   <iframe
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2690.198219101246!2d-96.92886039999999!3d32.9357629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c2981c7c59a89%3A0xb9334a23357abcb6!2sDelio%20Vending%20%26%20Coffee%20Services!5e1!3m2!1sen!2sin!4v1760709378893!5m2!1sen!2sin"
-    width="100%"
-    height="450"
-    style="border:0; border-radius:10px;"
-    allowfullscreen=""
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
+    title="Location Map">
   </iframe>
 </section>
 
