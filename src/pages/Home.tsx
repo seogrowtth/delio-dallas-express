@@ -221,11 +221,6 @@ const Home = () => {
   </iframe>
 </section>
 
-<!-- Footer Starts Here -->
-<footer>
-  ...
-</footer>
-
 
 
       
