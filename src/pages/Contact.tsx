@@ -85,7 +85,7 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Phone</h3>
                         <p className="text-muted-foreground">
-                        <a href="tel:+1 6147169068">6147169068</a><br />
+                        <u><a href="tel:+1 6147169068">6147169068</a></u><br />
                           Call us for immediate assistance
                         </p>
                       </div>
@@ -100,7 +100,7 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Email</h3>
                         <p className="text-muted-foreground">
-                          <a href="mailto:admin@deliotx.com">admin@deliotx.com</a><br />
+                          <u><a href="mailto:admin@deliotx.com">admin@deliotx.com</a></u><br />
                         
                         </p>
                       </div>
