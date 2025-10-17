@@ -172,12 +172,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="py-20">
-        <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl font-bold text-primary mb-6">
-
-<section class="about_section layout_padding iframe">
+      <section class="about_section layout_padding iframe">
   <div class="container">
     <div class="heading_container heading_center">
       <h2>Know More Us</h2>
@@ -243,7 +238,10 @@ const Home = () => {
 }
 </style>
 
-            
+      {/* CTA Section */}
+      <section className="py-20">
+        <div className="container mx-auto px-4 text-center">
+          <h2 className="text-4xl font-bold text-primary mb-6">            
             Ready to Upgrade Your Break Room?
           </h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
