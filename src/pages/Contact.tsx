@@ -70,8 +70,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Our Location</h3>
                         <p className="text-muted-foreground">
-                          Serving all of Dallas, TX<br />
-                          and surrounding areas
+                          1750 Briercroft Ct, Carrollton, TX 75006, <br />
+                          USA
                         </p>
                       </div>
                     </div>
