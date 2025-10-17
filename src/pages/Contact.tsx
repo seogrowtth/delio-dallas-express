@@ -100,7 +100,7 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Email</h3>
                         <p className="text-muted-foreground">
-                          <a href="admin@deliotx.com">admin@deliotx.com</a><br />
+                          <a href="mailto:admin@deliotx.com">admin@deliotx.com</a><br />
                         
                         </p>
                       </div>
