@@ -43,7 +43,7 @@ const Home = () => {
             Your Local Dallas Vending Experts
           </h2>
           <p className="text-xl text-center text-muted-foreground mb-16 max-w-3xl mx-auto">
-            Being deeply rooted in the Dallas business community, we understand the pulse of the local market. Whether you're looking for comprehensive <a href="https://www.google.com/maps/place/Delio+Vending+%26+Coffee+Services/data=!4m2!3m1!1s0x0:0xb9334a23357abcb6?sa=X&ved=1t:2428&ictx=111">vending services in Dallas TX</a> or a reliable partner for your break room needs, Delio Vending and Coffee Services offers a hands-on, personalized approach that sets us apart.
+            Being deeply rooted in the Dallas business community, we understand the pulse of the local market. Whether you're looking for comprehensive <u><a href="https://www.google.com/maps/place/Delio+Vending+%26+Coffee+Services/data=!4m2!3m1!1s0x0:0xb9334a23357abcb6?sa=X&ved=1t:2428&ictx=111">vending services in Dallas TX</a></u> or a reliable partner for your break room needs, Delio Vending and Coffee Services offers a hands-on, personalized approach that sets us apart.
           </p>
 
           <div className="grid md:grid-cols-3 gap-8 mb-16">
