@@ -100,8 +100,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Email</h3>
                         <p className="text-muted-foreground">
-                          info@deliovending.com<br />
-                          We respond within 24 hours
+                          <a href="admin@deliotx.com">admin@deliotx.com</a><br />
+                        
                         </p>
                       </div>
                     </div>
@@ -115,10 +115,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Business Hours</h3>
                         <p className="text-muted-foreground">
-                          Monday - Friday: 7:00 AM - 6:00 PM<br />
-                          Saturday: 8:00 AM - 2:00 PM<br />
-                          Sunday: Closed<br />
-                          Emergency service available 24/7
+                          Monday - Sunday: Open 24 Hours<br />
+                        
                         </p>
                       </div>
                     </div>
