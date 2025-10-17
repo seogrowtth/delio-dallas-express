@@ -85,7 +85,7 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Phone</h3>
                         <p className="text-muted-foreground">
-                          <a href="6147169068">6147169068</a></><br />
+                          (214) 555-VEND<br />
                           Call us for immediate assistance
                         </p>
                       </div>
@@ -100,8 +100,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Email</h3>
                         <p className="text-muted-foreground">
-                          <a href="admin@deliotx.com">admin@deliotx.com</a>></><br />
-                         
+                          info@deliovending.com<br />
+                          We respond within 24 hours
                         </p>
                       </div>
                     </div>
@@ -115,8 +115,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-bold mb-2">Business Hours</h3>
                         <p className="text-muted-foreground">
-                          Monday - Sunday: Open 24 hours<br />
-                          
+                          Monday - Friday: 7:00 AM - 6:00 PM<br />
+                          Saturday: 8:00 AM - 2:00 PM<br />
+                          Sunday: Closed<br />
+                          Emergency service available 24/7
                         </p>
                       </div>
                     </div>
