@@ -206,6 +206,8 @@ const Home = () => {
   </div>
 </section>
 
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3348.577361863464!2d-96.9288604!3d32.9357629!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c2981c7c59a89%3A0xb9334a23357abcb6!2sDelio%20Vending%20%26%20Coffee%20Services!5e0!3m2!1sen!2sin!4v1760709103916!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
       
 
       {/* CTA Section */}
